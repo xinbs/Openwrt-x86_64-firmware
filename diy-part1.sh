@@ -20,3 +20,4 @@ git clone https://github.com/fw876/helloworld.git package/lean/luci-app-ssr-plus
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/lean/luci-app-vssr
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lean/lua-maxminddb
 git clone https://github.com/destan19/OpenAppFilter.git package/lean/OpenAppFilter
+git clone https://github.com/sirpdboy/netspeedtest package/netspeedtest
